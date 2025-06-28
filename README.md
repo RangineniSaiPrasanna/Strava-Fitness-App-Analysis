@@ -44,4 +44,4 @@ Tableau dashboard development, creating interactive visuals that highlight user 
 
 Python (Pandas) exploratory data analysis, supported by Jupyter Notebook and data visualizations.
 
-> *This project is a part of my Data Science internship assignment and demonstrates multi-tool analysis skills in SQL, Power BI, and Python.*
+> *This project is a part of my Data Science internship and demonstrates multi-tool analysis skills in SQL, Tableau, and Python.*
