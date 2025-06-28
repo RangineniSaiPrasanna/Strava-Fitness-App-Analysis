@@ -43,5 +43,3 @@ SQL-based analysis, with queries designed to extract meaningful patterns from fi
 Tableau dashboard development, creating interactive visuals that highlight user activity, health trends, and performance metrics.
 
 Python (Pandas) exploratory data analysis, supported by Jupyter Notebook and data visualizations.
-
-> *This project is a part of my Data Science internship and demonstrates multi-tool analysis skills in SQL, Tableau, and Python.*
