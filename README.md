@@ -30,7 +30,3 @@ This project presents a comprehensive analysis of user fitness data from the Str
 - Found positive correlation between sleep duration and active lifestyle patterns.
 - Tracked monthly trends in fitness behavior and overall progress.
 - Segmented users based on heart rate zones and analyzed effort distribution.
-
-
-
-> *This project was completed as part of an internship assignment to demonstrate multi-tool data analysis capabilities across SQL,Tableau, and Python ecosystems.*
