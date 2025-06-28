@@ -30,3 +30,18 @@ This project presents a comprehensive analysis of user fitness data from the Str
 - Found positive correlation between sleep duration and active lifestyle patterns.
 - Tracked monthly trends in fitness behavior and overall progress.
 - Segmented users based on heart rate zones and analyzed effort distribution.
+
+
+## Acknowledgement
+
+I would like to sincerely thank my internship mentors and coordinators for providing me the opportunity to work on the Strava Fitness App – Data Analysis Project. This project has been a valuable experience in applying theoretical knowledge to a real-world dataset and delivering insights through multiple tools.
+
+Through this project, I was able to perform:
+
+SQL-based analysis, with queries designed to extract meaningful patterns from fitness data.
+
+Tableau dashboard development, creating interactive visuals that highlight user activity, health trends, and performance metrics.
+
+Python (Pandas) exploratory data analysis, supported by Jupyter Notebook and data visualizations.
+
+> *This project is a part of my Data Science internship assignment and demonstrates multi-tool analysis skills in SQL, Power BI, and Python.*
